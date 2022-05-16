@@ -5,8 +5,11 @@ Motivation behind this script was the lack of services providing free genome ana
 
 Steps to use this script:
 1.) Download your raw data from 23&Me.
+
 2.) Download the file 23&MeGenomeAnalyzer.py
+
 3.) Insert the name of your file in the script under file variable. Ex: file='YOUR_GENOME.txt'
+
 4.) Run the script!
 
 Two files will be produced:
