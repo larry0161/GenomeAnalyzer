@@ -19,6 +19,6 @@ GenomeAnalysis.txt will provide every result from all RSID's given, including th
 
 CleanedAnalysis.txt will only provide you with results where your RSID and genotype were associated with a documented trait.
 
-The output files will be spaced in the following format: RSID GENE_NAME POSSIBLE_TRAITS
+The output files will be spaced in the following format:      RSID   GENE_NAME    POSSIBLE_TRAITS
 
 I hope you find the script useful. Have fun!
