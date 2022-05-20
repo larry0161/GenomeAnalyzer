@@ -63,7 +63,6 @@ steps = [i for i in range(0,n-step+1,step)]
 steps.append(n)
 
 def go():
-
     ray.get([f.remote(data[steps[i]:steps[i+1]],i) for i in range(cpu)])
 go()
 #AnalyzedGenome.txt includes results from all 600k+ RSID genotypes, including those with no associated traits or RSID's not found in the database
