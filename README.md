@@ -1,4 +1,4 @@
-# GenomeAnalyzer
+# GenomeAnalyzer 2
 23&amp;Me Genome Analysis
 
 Motivation behind this script was the lack of services providing free genome analysis without having to divulge your private genetic profile. This script allows users to analyze their own genome without having to give up such sensitive information. 
